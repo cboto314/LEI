@@ -45,7 +45,7 @@ double get_pi(double l_cubo){
 
 void teste_pi(){
 	
-	double l_cubo = 4;
+	double l_cubo = 1;
 
 	double pi = get_pi(l_cubo);
 
