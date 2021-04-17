@@ -1,0 +1,1 @@
+Simple DNS client in python. Uses a bitearray to send the query. For practicing "manually" sending requests.
