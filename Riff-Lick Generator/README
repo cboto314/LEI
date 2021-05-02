@@ -1,0 +1,8 @@
+Generates riffs/licks for piano or guitar based on a seed value.
+Written in Java.
+
+Usage:
+Seed value (must be an integer)
+Strategy to use
+
+About strategies: strategy A displays only chords, strategy B displays both chords and keys.
